@@ -12,6 +12,7 @@
 		C28E2D161D1D6E9F00F3974E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C28E2D141D1D6E9F00F3974E /* Main.storyboard */; };
 		C28E2D181D1D6E9F00F3974E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C28E2D171D1D6E9F00F3974E /* Assets.xcassets */; };
 		C28E2D1B1D1D6E9F00F3974E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C28E2D191D1D6E9F00F3974E /* LaunchScreen.storyboard */; };
+		C28E2D231D1D71AD00F3974E /* SKResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28E2D221D1D71AD00F3974E /* SKResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C28E2D171D1D6E9F00F3974E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C28E2D1A1D1D6E9F00F3974E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C28E2D1C1D1D6E9F00F3974E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C28E2D221D1D71AD00F3974E /* SKResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C28E2D101D1D6E9F00F3974E /* AppDelegate.swift */,
 				C28E2D121D1D6E9F00F3974E /* ViewController.swift */,
 				C28E2D141D1D6E9F00F3974E /* Main.storyboard */,
+				C28E2D221D1D71AD00F3974E /* SKResultViewController.swift */,
 				C28E2D171D1D6E9F00F3974E /* Assets.xcassets */,
 				C28E2D191D1D6E9F00F3974E /* LaunchScreen.storyboard */,
 				C28E2D1C1D1D6E9F00F3974E /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C28E2D131D1D6E9F00F3974E /* ViewController.swift in Sources */,
+				C28E2D231D1D71AD00F3974E /* SKResultViewController.swift in Sources */,
 				C28E2D111D1D6E9F00F3974E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
